@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd ~/desktop/
+
+Touch rabbit.png
+
+Touch rabbit2.png
+
+Touch rabbit3.png
+
+mkdir rabbit
